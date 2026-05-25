@@ -5,7 +5,7 @@
 🚀 Sobre mim
 
 🎓 Estudando programação todos os dias
-🧠 Interessado em Inteligência Artificial e Machine Learning
+🧠 Interessado em Desenvolvimento e Seguranca
 💡 Apaixonado por resolver problemas e criar projetos reais
 🔥 Focado em me tornar um desenvolvedor profissional
 
