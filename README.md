@@ -72,15 +72,15 @@ print(me.status())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claytonsuandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ff9f&title_color=00ff9f&icon_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ff9f&title_color=00ff9f&icon_color=a78bfa"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytonsuandre&layout=compact&langs_count=7&theme=tokyonight&border_color=00ff9f&title_color=00ff9f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&langs_count=7&theme=tokyonight&border_color=00ff9f&title_color=00ff9f"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=claytonsuandre&theme=tokyonight&border=00ff9f&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff9f)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Santos788&theme=tokyonight&border=00ff9f&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff9f)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,7 +90,7 @@ print(me.status())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=claytonsuandre&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santos788&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -100,7 +100,7 @@ print(me.status())
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=claytonsuandre&theme=tokyo-night&bg_color=0d1117&color=00ff9f&line=a78bfa&point=ff6b6b&area=true&hide_border=false&border_color=00ff9f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=tokyo-night&bg_color=0d1117&color=00ff9f&line=a78bfa&point=ff6b6b&area=true&hide_border=false&border_color=00ff9f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -110,8 +110,8 @@ print(me.status())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/clayton-santos-7888733b0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claytondev43@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-santos-7888733b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](claytondev43@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santos788)
 
 </div>
