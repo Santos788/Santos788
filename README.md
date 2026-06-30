@@ -1,118 +1,105 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Clayton%20Suandre&fontSize=50&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descColor=a78bfa"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%90%8D;Security+Researcher+%F0%9F%94%90;Linux+%26+Bash+Enthusiast+%F0%9F%90%A7;API+Architect+%F0%9F%94%97;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-<br/>
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=claytonsuandre&color=00ff9f&style=for-the-badge&label=VISITAS+AO+PERFIL)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santos788%20&fontSize=50&fontColor=ffffff&desc=Cybersecurity%20Student%20%7C%20Pentest%20%26%20Offensive%20Security&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<h3 align="center">👋 Olá! Eu sou Clayton Santos</h3>
 
-## 🧑‍💻 Sobre mim
+<p align="center">
+🎯 Estudante de Cibersegurança com foco em <b>Pentest (Offensive Security)</b>
+</p>
 
-```python
-class ClaytonSuandre:
-    def __init__(self):
-        self.nome       = "Clayton Suandre"
-        self.role       = "Backend Developer"
-        self.foco       = ["Segurança da Informação", "APIs Robustas", "Automação"]
-        self.os         = "Linux 🐧"
-        self.linguagens = ["Python", "C#", "Bash"]
-        self.banco      = ["SQLite", "SQLAlchemy"]
-        self.filosofia  = "Código limpo, sistemas seguros, soluções eficientes."
+<p align="center">
+Sou apaixonado por tecnologia e estou construindo uma base sólida em redes, Linux, programação e segurança ofensiva.<br/>
+Meu objetivo é desenvolver habilidades práticas, criar ferramentas próprias e atuar profissionalmente na área de cibersegurança.
+</p>
 
-    def status(self):
-        return "⚡ Sempre codando, sempre aprendendo."
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Santos788&label=Visualizações+no+perfil&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/Status-Estudando%20Pentest-2c5364?style=flat&logo=hackthebox&logoColor=white" />
+</p>
 
-me = ClaytonSuandre()
-print(me.status())
-```
-
----
-
-## 🛠️ Stack & Tecnologias
-
-<div align="center">
-
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff9f)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00ff9f)
-
-### 🗄️ Banco de Dados & ORM
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔐 Segurança & Infra
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Security](https://img.shields.io/badge/Segurança_da_Informação-00ff9f?style=for-the-badge&logo=hackthebox&logoColor=black)
-![API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🧰 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=00ff9f)
-
-</div>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🚀 Atualmente estudando
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ff9f&title_color=00ff9f&icon_color=a78bfa"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&langs_count=7&theme=tokyonight&border_color=00ff9f&title_color=00ff9f"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Santos788&theme=tokyonight&border=00ff9f&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff9f)](https://git.io/streak-stats)
-
-</div>
+<p align="left">
+<img src="https://img.shields.io/badge/Redes_de_Computadores-2c5364?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-1C1C1C?style=for-the-badge&logo=nmap&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/HTTP_DNS_FTP_SSH-003366?style=for-the-badge&logo=internetarchive&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pentest_Fundamentals-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reconhecimento_%26_Enumeração-black?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+</p>
 
 ---
 
-## 🏆 Troféus do GitHub
+### 🛠️ Stack & Ferramentas
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Santos788&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,kali,wireshark" />
+</p>
 
 ---
 
-## 📈 Gráfico de Atividade
+### 📂 Projetos em destaque
 
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=tokyo-night&bg_color=0d1117&color=00ff9f&line=a78bfa&point=ff6b6b&area=true&hide_border=false&border_color=00ff9f)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788⁹&repo=redes-fundamentos&theme=react&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=bash-scripts&theme=react&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=python-tools&theme=react&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=pentest-labs&theme=react&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=ctf-writeups&theme=react&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=estudos-anotacoes&theme=react&hide_border=true" /></a>
+</p>
 
 ---
 
-## 🌐 Contato & Redes
+### 🎯 Objetivos para 2026
+
+- 🐍 Aprimorar Python para Segurança
+- ⚙️ Desenvolver ferramentas de automação para Pentest
+- 📁 Criar um portfólio sólido no GitHub
+- 🏁 Resolver desafios de CTF regularmente
+- 💼 Conquistar minha primeira oportunidade em Cibersegurança
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santos788&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 📈 Gráfico de Contribuições
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+### 📚 Filosofia
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-santos-7888733b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](claytondev43@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santos788)
+> *"Aprender, praticar, documentar e evoluir."*
 
 </div>
 
@@ -120,9 +107,8 @@ print(me.status())
 
 <div align="center">
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+**Obrigado por visitar meu perfil! 🚀**
 
-*"A segurança não é um produto, é um processo."* 🔐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
