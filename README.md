@@ -21,9 +21,9 @@ Meu objetivo é desenvolver habilidades práticas, criar ferramentas próprias e
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+<a href="https://linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/Santos788" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
 
 ---
@@ -54,12 +54,12 @@ Meu objetivo é desenvolver habilidades práticas, criar ferramentas próprias e
 ### 📂 Projetos em destaque
 
 <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788⁹&repo=redes-fundamentos&theme=react&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=bash-scripts&theme=react&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=python-tools&theme=react&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=pentest-labs&theme=react&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=ctf-writeups&theme=react&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=estudos-anotacoes&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/hybrid-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=hybrid-os&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/redes-fundamentos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=redes-fundamentos&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/bash-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=bash-scripts&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/python-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=python-tools&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/pentest-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=pentest-labs&theme=react&hide_border=true" /></a>
+<a href="https://github.com/Santos788/ctf-writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=ctf-writeups&theme=react&hide_border=true" /></a>
 </p>
 
 ---
@@ -100,15 +100,5 @@ Meu objetivo é desenvolver habilidades práticas, criar ferramentas próprias e
 <div align="center">
 
 > *"Aprender, praticar, documentar e evoluir."*
-
-</div>
-
----
-
-<div align="center">
-
-**Obrigado por visitar meu perfil! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
