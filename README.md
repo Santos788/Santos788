@@ -1,104 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santos788%20&fontSize=50&fontColor=ffffff&desc=Cybersecurity%20Student%20%7C%20Pentest%20%26%20Offensive%20Security&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Clayton&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20Student&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<h3>🔐 Offensive Security Enthusiast</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 </div>
 
-<h3 align="center">👋 Olá! Eu sou Clayton Santos</h3>
+---
 
-<p align="center">
-🎯 Estudante de Cibersegurança com foco em <b>Pentest (Offensive Security)</b>
-</p>
+## 👤 About Me
 
-<p align="center">
-Sou apaixonado por tecnologia e estou construindo uma base sólida em redes, Linux, programação e segurança ofensiva.<br/>
-Meu objetivo é desenvolver habilidades práticas, criar ferramentas próprias e atuar profissionalmente na área de cibersegurança.
-</p>
+Estudante de Cybersegurança em formação prática, com foco em Linux, Redes, Python e Segurança Ofensiva. Estudo diariamente enumeração, exploração de vulnerabilidades web e automação de tarefas de segurança, sempre documentando o progresso para construir um portfólio sólido e transparente.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Santos788&label=Visualizações+no+perfil&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Status-Estudando%20Pentest-2c5364?style=flat&logo=hackthebox&logoColor=white" />
-</p>
+### 🎯 What Drives Me
 
-<p align="center">
-<a href="https://linkedin.com/in/clayton-santos-7888733b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:claytondev43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/claytondev43" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-</p>
+Acredito em aprender fazendo: montar labs, quebrar sistemas de propósito, entender a falha, corrigir e documentar. Cada CTF resolvido e cada ferramenta escrita em Python é um passo a mais rumo à minha primeira oportunidade profissional em Cybersecurity.
 
 ---
 
-### 🚀 Atualmente estudando
+## 📂 Featured Projects
 
-<p align="left">
-<img src="https://img.shields.io/badge/Redes_de_Computadores-2c5364?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-1C1C1C?style=for-the-badge&logo=nmap&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/HTTP_DNS_FTP_SSH-003366?style=for-the-badge&logo=internetarchive&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pentest_Fundamentals-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reconhecimento_%26_Enumeração-black?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🐍 Python Security Toolkit
+Conjunto de scripts para automação de reconhecimento e tarefas de pentest.
 
-### 🛠️ Stack & Ferramentas
+**Highlights:**
+- Scanner de portas customizado
+- Automação de coleta de informações (OSINT)
+- Parsing e organização de resultados de scans
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,kali,wireshark" />
-</p>
+**Tech Stack:** Python, Sockets, Requests
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📂 Projetos em destaque
+### 🧩 CTF Write-ups & Labs
+Documentação estruturada de desafios de CTF e labs de pentest resolvidos.
 
-<p align="center">
-<a href="https://github.com/Santos788/hybrid-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=hybrid-os&theme=react&hide_border=true" /></a>
-<a href="https://github.com/Santos788/redes-fundamentos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=redes-fundamentos&theme=react&hide_border=true" /></a>
-<a href="https://github.com/Santos788/bash-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=bash-scripts&theme=react&hide_border=true" /></a>
-<a href="https://github.com/Santos788/python-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=python-tools&theme=react&hide_border=true" /></a>
-<a href="https://github.com/Santos788/pentest-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=pentest-labs&theme=react&hide_border=true" /></a>
-<a href="https://github.com/Santos788/ctf-writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Santos788&repo=ctf-writeups&theme=react&hide_border=true" /></a>
-</p>
+**Highlights:**
+- Metodologia de reconhecimento aplicada
+- Exploração de vulnerabilidades web (OWASP Top 10)
+- Relatórios técnicos por desafio
 
----
+**Tech Stack:** Markdown, Burp Suite, Nmap
 
-### 🎯 Objetivos para 2026
-
-- 🐍 Aprimorar Python para Segurança
-- ⚙️ Desenvolver ferramentas de automação para Pentest
-- 📁 Criar um portfólio sólido no GitHub
-- 🏁 Resolver desafios de CTF regularmente
-- 💼 Conquistar minha primeira oportunidade em Cibersegurança
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santos788&theme=react&hide_border=true" />
-</p>
-
----
-
-### 📈 Gráfico de Contribuições
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-### 📚 Filosofia
+## 🛠 Tech Stack
 
 <div align="center">
 
-> *"Aprender, praticar, documentar e evoluir."*
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+**Backend & Scripting**
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
+
+**Security Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<br/>
+<img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santos788&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 💻 Current Focus & Interests
+
+```bash
+const clayton = {
+  role: "Cybersecurity Student",
+  focus: ["Linux", "Networking", "Python", "Web Security", "Pentest"],
+  currentGoal: "Land my first Cybersecurity opportunity",
+  motto: "Learn. Build. Break. Fix. Repeat."
+}
+```
+
+---
+
+## 🌐 Beyond Code
+
+<table width="100%" align="center">
+<tr>
+<td align="center" width="25%">📖<br/>Reading</td>
+<td align="center" width="25%">🎮<br/>Gaming</td>
+<td align="center" width="25%">🧩<br/>CTF Challenges</td>
+<td align="center" width="25%">🎧<br/>Music</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Goals
+
+- ✅ Aprofundar Linux
+- ✅ Dominar Python para Segurança
+- ✅ Desenvolver ferramentas próprias
+- ✅ Resolver CTFs regularmente
+- ✅ Construir um portfólio sólido
+- ✅ Conquistar minha primeira oportunidade em Cybersecurity
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/clayton-santos-7888733b0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:claytondev43@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com/p/claytondev43">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+</p>
+
+<div align="center">
+
+> **"Learn. Build. Break. Fix. Repeat."**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
