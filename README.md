@@ -21,40 +21,6 @@ Estudante de Cybersegurança em formação prática, com foco em Linux, Redes, P
 
 Acredito em aprender fazendo: montar labs, quebrar sistemas de propósito, entender a falha, corrigir e documentar. Cada CTF resolvido e cada ferramenta escrita em Python é um passo a mais rumo à minha primeira oportunidade profissional em Cybersecurity.
 
----
-
-## 📂 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Python Security Toolkit
-Conjunto de scripts para automação de reconhecimento e tarefas de pentest.
-
-**Highlights:**
-- Scanner de portas customizado
-- Automação de coleta de informações (OSINT)
-- Parsing e organização de resultados de scans
-
-**Tech Stack:** Python, Sockets, Requests
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 CTF Write-ups & Labs
-Documentação estruturada de desafios de CTF e labs de pentest resolvidos.
-
-**Highlights:**
-- Metodologia de reconhecimento aplicada
-- Exploração de vulnerabilidades web (OWASP Top 10)
-- Relatórios técnicos por desafio
-
-**Tech Stack:** Markdown, Burp Suite, Nmap
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -68,16 +34,15 @@ Documentação estruturada de desafios de CTF e labs de pentest resolvidos.
 
 **Backend & Scripting**
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,flask,mongodb,mysql,sqlite "/> 
 
 **Security Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,kali"/>
 <br/>
 <img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 
 </div>
