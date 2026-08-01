@@ -182,9 +182,9 @@ const clayton = {
 
 <div align="center">
 
-| Certificado | Plataforma | Ano |
-| Python | 8h |  ![Santader](https://img.shields.io/badge/Santander-CC0000?style=flat-square&logoColor=white) | — | `2026` |
-
+  | Certificado | Plataforma | Carga Horária | Ano |
+|:---|:---:|:---:|:---:|
+| **Santander Open Academy — Python**| ![Santander](https://img.shields.io/badge/Santander-CC0000?style=flat-square&logoColor=white) | 8h | `2026` |
 
 </div>
 
