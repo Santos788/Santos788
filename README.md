@@ -1,9 +1,12 @@
+<!--
+  ⬆️ Coloque aqui o SEU header/banner de topo (o template que você vai escolher depois).
+  Sugestão de tamanho: width="100%" height entre 180–220px para manter proporção com o resto do perfil.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Clayton&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20Student&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
-
 <!-- TYPING HERO -->
-<img src="https://readme-typing-svg.demolab.com?font=Sora&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=Hey+%F0%9F%91%8B+I'm+Clayton+Santos;Offensive+Security+Enthusiast;Break+It.+Understand+It.+Fix+It.;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&size=24&duration=4000&pause=1000&color=4CD6D6&center=true&vCenter=true&width=560&lines=Hey+%F0%9F%91%8B+I'm+Clayton+Santos;Offensive+Security+Enthusiast;Break+It.+Understand+It.+Fix+It.;Always+Learning+%F0%9F%9A%80" />
 
 <br/>
 
@@ -14,19 +17,23 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clayton-santos-7888733b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4CD6D6)](https://linkedin.com/in/clayton-santos-7888733b0)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claytondev43@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=4CD6D6)](mailto:claytondev43@gmail.com)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/claytondev43)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=4CD6D6)](https://tryhackme.com/p/claytondev43)
 &nbsp;
-![Open to Opportunities](https://img.shields.io/badge/🟢_Open_to_Opportunities-0f2027?style=for-the-badge)
+![Open to Opportunities](https://img.shields.io/badge/🟢_Open_to_Opportunities-0d1117?style=for-the-badge&logoColor=4CD6D6)
 
 </div>
 
 ---
 
 ## 🧭 Sobre mim / About me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```ts
 const clayton = {
@@ -45,6 +52,15 @@ const clayton = {
 > 💬 *Estudante de Cybersegurança em formação prática, com foco em Linux, Redes, Python e Segurança Ofensiva. Estudo diariamente enumeração, exploração de vulnerabilidades web e automação de tarefas de segurança, sempre documentando o progresso para construir um portfólio sólido e transparente.*
 >
 > *Cybersecurity student in hands-on training, focused on Linux, Networking, Python and Offensive Security. I study enumeration, web vulnerability exploitation and security automation daily, always documenting progress to build a solid, transparent portfolio.*
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,11 +86,11 @@ const clayton = {
 </tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=html" width="28"/> <img src="https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://skillicons.dev/icons?i=html" width="28"/> <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="28"/> <img src="https://img.shields.io/badge/CSS-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://skillicons.dev/icons?i=css" width="28"/> <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="28"/> <img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://skillicons.dev/icons?i=js" width="28"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4CD6D6"/>
 </td>
 </tr>
 
@@ -83,11 +99,11 @@ const clayton = {
 </tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=python" width="28"/> <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=python" width="28"/> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=bash" width="28"/> <img src="https://img.shields.io/badge/Bash-0f2027?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://skillicons.dev/icons?i=bash" width="28"/> <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=flask" width="28"/> <img src="https://img.shields.io/badge/Flask-0f2027?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=flask" width="28"/> <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=4CD6D6"/>
 </td>
 </tr>
 
@@ -96,11 +112,11 @@ const clayton = {
 </tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=mysql" width="28"/> <img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="28"/> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="28"/> <img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="28"/> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=sqlite" width="28"/> <img src="https://img.shields.io/badge/SQLite-0f2027?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="28"/> <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=4CD6D6"/>
 </td>
 </tr>
 
@@ -109,21 +125,21 @@ const clayton = {
 </tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=linux" width="28"/> <img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://skillicons.dev/icons?i=linux" width="28"/> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=kali" width="28"/> <img src="https://img.shields.io/badge/Kali_Linux-0f2027?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://skillicons.dev/icons?i=kali" width="28"/> <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Nmap-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Wireshark-0f2027?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Burp_Suite-0f2027?style=for-the-badge&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="28"/> <img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://skillicons.dev/icons?i=git" width="28"/> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="28"/> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="28"/> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="28"/> <img src="https://img.shields.io/badge/VS_Code-0f2027?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="28"/> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=4CD6D6"/>
 </td>
 </tr>
 
@@ -132,11 +148,11 @@ const clayton = {
 </tr>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/Active_Directory-0f2027?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
+<img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Metasploit-0f2027?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logoColor=4CD6D6"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OSCP_Prep-0f2027?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSCP_Prep-0d1117?style=for-the-badge&logoColor=4CD6D6"/>
 </td>
 </tr>
 
@@ -153,7 +169,8 @@ const clayton = {
 >
 > Ecossistema de desenvolvimento híbrido e portátil que transforma qualquer notebook em um ambiente de trabalho estável, seguro e persistente, combinando um Live CD/USB Linux Mint (executado em RAM) com o armazenamento persistente de um dispositivo Android via Termux.
 >
-> A hybrid, portable development ecosystem that transforms any laptop into a stable, secure, and persistent workspace by combining a Linux Mint Live CD/USB (running in RAM) with persistent storage on an Android device via Termux.
+> *A hybrid, portable development ecosystem that transforms any laptop into a stable, secure, and persistent workspace by combining a Linux Mint Live CD/USB (running in RAM) with persistent storage on an Android device via Termux.*
+
 ---
 
 > 💡 *Repositório em constante atualização conforme novos CTFs e ferramentas são desenvolvidos.*
@@ -164,16 +181,16 @@ const clayton = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=react&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=4CD6D6&icon_color=4CD6D6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=github_dark&hide_border=true&title_color=4CD6D6"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santos788&theme=react&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santos788&theme=github-dark-blue&hide_border=true&ring=4CD6D6&fire=4CD6D6&currStreakLabel=4CD6D6"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santos788&theme=react-dark&hide_border=true&area=true&color=4CD6D6&line=4CD6D6"/>
 </p>
 
 ---
@@ -182,9 +199,9 @@ const clayton = {
 
 <div align="center">
 
-  | Certificado | Plataforma | Carga Horária | Ano |
+| Certificado | Plataforma | Carga Horária | Ano |
 |:---|:---:|:---:|:---:|
-| **Santander Open Academy — Python**| ![Santander](https://img.shields.io/badge/Santander-CC0000?style=flat-square&logoColor=white) | 8h | `2026` |
+| **Santander Open Academy — Python** | ![Santander](https://img.shields.io/badge/Santander-0d1117?style=flat-square&logoColor=4CD6D6) | 8h | `2026` |
 
 </div>
 
@@ -232,8 +249,6 @@ const clayton = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=580&lines=%22+Learn.+Build.+Break.+Fix.+Repeat.+%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=4CD6D6&center=true&vCenter=true&width=580&lines=%22+Learn.+Build.+Break.+Fix.+Repeat.+%22" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
