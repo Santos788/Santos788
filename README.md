@@ -1,44 +1,52 @@
-<h1 align="center">Olá, eu sou o Clayton 👋</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3 align="center">Back-end Developer em formação | Futuro Application Security Engineer | Python & AppSec</h3>
+<p align="left">
+  <strong>Clayton Santos</strong><br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudando+Python+e+APIs;Aprendendo+Seguran%C3%A7a+de+Aplica%C3%A7%C3%B5es+(AppSec);Praticando+DevSecOps;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <strong>Back-end Developer • Application Security</strong><br>
+  Python • SQL • SQLite • SQLAlchemy • OWASP • DevSecOps<br><br>
+
+  Desenvolvimento de aplicações seguras com foco em arquitetura de software, Secure Coding, OWASP Top 10 e práticas de DevSecOps.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/clayton-santos-7888733b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  🦄 <strong>Linguagens:</strong><br><br>
+
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+<p align="left">
+  💼 <strong>Tecnologias:</strong><br><br>
+
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+<p align="left">
+  💌 Entre em contato:
+</p>
+
+<p align="left">
+  <a href="mailto:claytondev43@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
 
----
+  <a href="https://www.linkedin.com/in/clayton-santos-7888733b0" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-### 🚀 Sobre mim
+  <a href="https://github.com/santos788" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-- 💻 Desenvolvedor Back-end em formação com foco em Python
-- 🔐 Construindo conhecimento em Application Security (AppSec)
-- 🛡️ Estudando desenvolvimento seguro, OWASP Top 10 e boas práticas de segurança
-- ⚙️ Aprendendo APIs REST, bancos de dados, autenticação e arquitetura de aplicações
-- 🚀 Objetivo: atuar como Application Security Engineer, unindo desenvolvimento e segurança
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/clayton-santos-7888733b0)
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
----
-
-### 🔐 Segurança e AppSec
-
-<p align="center"> <img src="https://img.shields.io/badge/Application_Security-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Secure_Coding-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/OWASP_Top_10-black?style=for-the-badge&logo=owasp"/> <img src="https://img.shields.io/badge/DevSecOps-orange?style=for-the-badge"/> </p>
-
-### 📊 Estatísticas do GitHub
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santos788&show_icons=true&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos788&layout=compact&theme=radical&hide_border=true" height="165"/> </p>
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=claytonLima&label=Visualizações+no+perfil&color=2E9EF7&style=flat" alt="visitors"/>
+  <img src="https://streak-stats.demolab.com?user=santos788&theme=github-dark&hide_border=true"/>
 </p>
