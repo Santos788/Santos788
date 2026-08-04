@@ -46,7 +46,11 @@
   </a>
 
 
+  
+<h2 align="center">Estatísticas</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santos788&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats-defcon27.vercel.app/api?username=Santos788&show_icons=true&theme=react&include_all_commits=true&count_private=true" width="385" />
+  &nbsp;
+  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Santos788&layout=compact&langs_count=16&theme=react" width="400" />
 </p>
